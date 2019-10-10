@@ -65,3 +65,13 @@ $ git checkout -b part1
   * https://www.e-olymp.com/ru/problems/6124 - стек
 
 За каждое полностью рабочее решение дается 2 балла.  
+
+## ДЗ 3.
+Задачи с e-olymp.com
+
+Дэдлайн - 22.10
+  * https://www.e-olymp.com/ru/problems/3738 - Простая сортировка
+  * https://www.e-olymp.com/ru/problems/1462 - Хитрая сортировка
+  * https://www.e-olymp.com/ru/problems/4741 - Сортировка пузырьком
+  * https://www.e-olymp.com/ru/problems/4827 - k-тая порядковая статистика
+  * https://www.e-olymp.com/ru/problems/4037 - Сортировка слиянием
