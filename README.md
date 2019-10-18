@@ -75,3 +75,16 @@ $ git checkout -b part1
   * https://www.e-olymp.com/ru/problems/4741 - Сортировка пузырьком
   * https://www.e-olymp.com/ru/problems/4827 - k-тая порядковая статистика
   * https://www.e-olymp.com/ru/problems/4037 - Сортировка слиянием
+  
+## ДЗ 4.
+Задачи с e-olymp.com
+
+Дэдлайн - 29.10
+  * https://www.e-olymp.com/ru/problems/3737 - Куча ли?
+  * https://www.e-olymp.com/ru/problems/4039 - Хипуй
+  * https://www.e-olymp.com/ru/problems/4074 - Найти медиану 2
+  * https://www.e-olymp.com/ru/problems/4261 - Количество инверсий
+  * https://www.e-olymp.com/ru/problems/1457 - Станция "Сортировочная"
+  * https://www.e-olymp.com/ru/problems/9016 - Бинарный поиск
+  * https://www.e-olymp.com/ru/problems/5149 - Коровы - в стойла
+    
