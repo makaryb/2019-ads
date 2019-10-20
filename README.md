@@ -76,6 +76,9 @@ $ git checkout -b part1
   * https://www.e-olymp.com/ru/problems/4827 - k-тая порядковая статистика
   * https://www.e-olymp.com/ru/problems/4037 - Сортировка слиянием
   
+В задачах нельзя использовать `Arrays.sort()`/`Collections.sort()`. 
+На то они и задачи на сортировку, чтобы мы сами пописали эти сортировки.  
+  
 ## ДЗ 4.
 Задачи с e-olymp.com
 
