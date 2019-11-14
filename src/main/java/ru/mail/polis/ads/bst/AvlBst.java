@@ -1,5 +1,8 @@
 package ru.mail.polis.ads.bst;
 
+import org.jetbrains.annotations.NotNull;
+import org.jetbrains.annotations.Nullable;
+
 /**
  * Made by БорискинМА
  * 07.11.19
@@ -26,6 +29,7 @@ public class AvlBst<Key extends Comparable<Key>, Value>
         }
     }
 
+    @Nullable
     @Override
     public Value get(Key key) {
         return get(root, key);
@@ -230,6 +234,7 @@ public class AvlBst<Key extends Comparable<Key>, Value>
         return get(min());
     }
 
+    @Nullable
     @Override
     public Key max() {
         return max(root);
@@ -253,6 +258,7 @@ public class AvlBst<Key extends Comparable<Key>, Value>
         return get(max());
     }
 
+    @Nullable
     @Override
     public Key floor(Key key) {
         return floor(root, key, null);
