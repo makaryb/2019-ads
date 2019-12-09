@@ -183,6 +183,12 @@ N.B. Pull-реквесты нужно делать в ветку `hash`.
 Служебные методы:
 <<<<<<< HEAD
   * `int size()` - вовзращает количество ключей  
-=======
-  * `int size()` - вовзращает количество ключей
->>>>>>> part8
+  
+## ДЗ 9.
+
+Дэдлайн - 12.12
+  * https://www.e-olymp.com/ru/problems/1948 - Топологическая сортировка
+  * https://www.e-olymp.com/ru/problems/2022 - Циклы в графе
+  * https://www.e-olymp.com/ru/problems/1453 - Форд-Беллман
+  * https://www.e-olymp.com/ru/problems/4856 - Кратчайший путь
+  * https://www.e-olymp.com/ru/problems/4853 - Кратчайший путь
