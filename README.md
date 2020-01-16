@@ -192,3 +192,11 @@ N.B. Pull-реквесты нужно делать в ветку `hash`.
   * https://www.e-olymp.com/ru/problems/1453 - Форд-Беллман
   * https://www.e-olymp.com/ru/problems/4856 - Кратчайший путь
   * https://www.e-olymp.com/ru/problems/4853 - Кратчайший путь
+  
+## ДЗ 10.
+
+Дэдлайн - 27.12
+  * https://www.e-olymp.com/ru/problems/1943 - Мосты
+  * https://www.e-olymp.com/ru/problems/3835 - Минимальный каркас
+  * https://www.e-olymp.com/ru/problems/325 - Опасный маршрут
+  * https://www.e-olymp.com/ru/problems/1947 - Конденсация графа
